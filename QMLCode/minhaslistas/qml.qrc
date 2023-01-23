@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Game/amazon.jpeg</file>
+        <file>Game/americanas.png</file>
+        <file>Game/Ativo1.png</file>
+        <file>Game/Ativo2.png</file>
+        <file>Game/Ativo3.png</file>
+        <file>Game/jogo1.jpg</file>
+        <file>Game/jogo2.png</file>
+        <file>Game/jogo3.png</file>
+        <file>Game/jogo4.jpg</file>
+        <file>Game/jogo5.jpg</file>
+        <file>Game/magalu.png</file>
+        <file>Game/mercadolivre.png</file>
+        <file>Images/apostadora.png</file>
+        <file>Images/bgtest2.png</file>
+        <file>Images/cardgames.png</file>
+        <file>Images/Contato.png</file>
+        <file>Images/Contato2.png</file>
+        <file>Images/Contato3.png</file>
+        <file>Images/download.png</file>
+        <file>Images/logo.png</file>
+        <file>Images/logow.png</file>
+        <file>Images/maisde6jogos.png</file>
+        <file>Images/noticias.png</file>
+        <file>Images/warrior.png</file>
+        <file>Icons/angle-left.png</file>
+        <file>Icons/bell-ring.png</file>
+        <file>Icons/bell.png</file>
+        <file>Icons/book-open-cover.png</file>
+        <file>Icons/botao-de-inicio.png</file>
+        <file>Icons/flame.png</file>
+        <file>Icons/list.png</file>
+        <file>Icons/mapa.png</file>
+        <file>Icons/marker (1).png</file>
+        <file>Icons/marker.png</file>
+        <file>Icons/plus.png</file>
+        <file>Icons/search.png</file>
+        <file>Icons/shopping-cart.png</file>
+        <file>Icons/star.png</file>
+        <file>Icons/stars.webp</file>
+        <file>Icons/starss.png</file>
+        <file>Icons/user-add (1).png</file>
+        <file>Icons/user-add.png</file>
+        <file>Icons/users.png</file>
+        <file>Game/Baldur's Gate II Shadows of Amn.png</file>
+        <file>Game/Bloodborne.jpg</file>
+        <file>Game/Chrono Trigger.png</file>
+        <file>Game/Deus Ex.jpg</file>
+        <file>Game/Diablo II.png</file>
+        <file>Game/Fallout 3.jpg</file>
+        <file>Game/Final Fantasy Tactics.jpg</file>
+        <file>Game/Mass Effect 2.png</file>
+        <file>Game/Planescape Torment.jpg</file>
+        <file>Game/Star Wars Knights of the Old Republic.jpg</file>
+        <file>Game/The Elder Scrolls V Skyrim.jpg</file>
+        <file>Game/The Witcher 3 Wild Hunt.jpg</file>
+        <file>Game/World of Warcraft.jpg</file>
+    </qresource>
+</RCC>

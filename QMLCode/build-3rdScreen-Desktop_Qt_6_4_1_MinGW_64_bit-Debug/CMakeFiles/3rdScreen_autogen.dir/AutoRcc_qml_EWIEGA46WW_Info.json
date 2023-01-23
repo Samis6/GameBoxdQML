@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/build-3rdScreen-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/3rdScreen_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/build-3rdScreen-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/build-3rdScreen-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/3rdScreen",
+	"CMAKE_SOURCE_DIR" : "C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/3rdScreen",
+	"INCLUDE_DIR" : "C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/build-3rdScreen-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/3rdScreen_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/3rdScreen/main.qml",
+		"C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/3rdScreen/Images/logow.png",
+		"C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/3rdScreen/Images/bgtest2.png",
+		"C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/3rdScreen/Images/logo.png",
+		"C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/3rdScreen/Images/warrior.png"
+	],
+	"LOCK_FILE" : "C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/build-3rdScreen-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/3rdScreen_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/build-3rdScreen-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/3rdScreen_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/samis/Desktop/ACABAR CLEBER AGORAAAA/3rdScreen/qml.qrc",
+	"VERBOSITY" : 0
+}
